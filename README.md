@@ -1,1 +1,1 @@
-Python solutions to codeforces problemsets
+Python solutions to codeforces problems.
